@@ -151,15 +151,16 @@ def tanx():
         plot((x * xStep), (y * yStep))
     graph.penup()
 
-
+# Testing the functions
 """linear(3, 5)
 quad(1, -4, 3)
 cubic(1, 0, 0, 0) # Needs rework
 sqroot()
 cbroot()
 expnt()
-logrtm()"""
+logrtm()
 sinx()
-cosx()
+cosx()"""
 
 turtle.done()
+
